@@ -8,7 +8,6 @@ import ru.anoddyne.temperaturesensorserver.exception.SensorNotFoundException;
 import ru.anoddyne.temperaturesensorserver.models.Measurement;
 import ru.anoddyne.temperaturesensorserver.models.Sensor;
 import ru.anoddyne.temperaturesensorserver.repositories.MeasurementRepository;
-import ru.anoddyne.temperaturesensorserver.repositories.SensorRepository;
 
 import java.time.LocalDateTime;
 import java.util.List;
